@@ -1,0 +1,17 @@
+{
+  "name": "jest-sample",
+  "version": "1.0.0",
+  "description": "A jest sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Miyoshi Light",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "jest": "^28.1.1"
+  }
+}
